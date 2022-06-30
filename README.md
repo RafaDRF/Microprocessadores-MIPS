@@ -21,11 +21,16 @@ que foram desenvolvidos no [Simulador MARS](http://courses.missouristate.edu/ken
 - [Configurar Ambiente](#configuracao)
 
 - Com o simulador aberto:
+
     - abrir arquivo desse repositorio 
+
     - configurar bitmap display
+
     - rodar arquivo
 
 ## Como Jogar
+
+
 
 [Voltar ao Topo da Pagina](#topo)
 
@@ -39,9 +44,21 @@ que foram desenvolvidos no [Simulador MARS](http://courses.missouristate.edu/ken
 ## Como rodar a Calculadora
 
 1. Abrir o arquivo "Calculadora.asm" no simulador MARS
+
 2. Salvar aquivo
-3. Clicar no icone das chaves para "preparar" para rodar
-4. Clicar no icone verde de play um menu sera exibido na aba "Run I/O" do simulador
+
+3. No menu superior clique no icone das chaves para "preparar" para rodar
+
+![icone na forma de ferramenta no MARS](images/icone_ferramenta.png)
+
+4. Clicar no icone "Run" 
+
+![icone circular ](images/icone_run.png)
+
+5. O menu da calculadora será exibido na aba "Run I/O" do simulador
+
+![Menu inicia da Calculadora](images/menu_inicial_calculadora.png)
+
 
 
 [Voltar ao Topo da Pagina](#topo)
