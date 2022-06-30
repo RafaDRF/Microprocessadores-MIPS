@@ -1,8 +1,8 @@
 <a id="topo"></a>
 # Microprocessadores-MIPS
 
-Repositório de atividades realizadas em 2020, durante a disciplina de Microprocessadores. Resolvi deixar registrado essas atividades pois 
-guardo um carinho por elas e também são o "marco zero" do meu interesse por Computação. 
+Repositório de atividades realizadas em 2020, durante a disciplina de Microprocessadores. Resolvi deixar registrado essas atividades 
+guardo com carinho porque elas também são o "marco zero" do meu interesse por Computação. 
 
 Neste repositorio você vai encontrar estes dois programas em Assembly-MIPS 
 que foram desenvolvidos no [Simulador MARS](http://courses.missouristate.edu/kenvollmar/mars/):
