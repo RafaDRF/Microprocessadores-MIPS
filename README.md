@@ -34,6 +34,16 @@ que foram desenvolvidos no [Simulador MARS](http://courses.missouristate.edu/ken
 <a id="calculadora"></a>
 # Calculadora em Ponto Flutuante
 
+- [Configurar Ambiente](#configuracao)
+
+## Como rodar a Calculadora
+
+1. Abrir o arquivo "Calculadora.asm" no simulador MARS
+2. Salvar aquivo
+3. Clicar no icone das chaves para "preparar" para rodar
+4. Clicar no icone verde de play um menu sera exibido na aba "Run I/O" do simulador
+
+
 [Voltar ao Topo da Pagina](#topo)
 
 
