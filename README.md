@@ -11,17 +11,14 @@ que foram desenvolvidos no [Simulador MARS](http://courses.missouristate.edu/ken
 
 - [Calculadora em Ponto Flutuante](#calculadora)
 
+
+
 <a id="jogoGenius"></a>
 # Jogo Genius
 
-
-
 ## Como rodar o Jogo
 
-- É necessário ter Java instalado para rodar o Simulador MARS 
-    - Você pode baixar, se não tiver, o Java no [link](https://www.java.com/pt-BR/download/manual.jsp)
-
-- Baixar Simulador MARS: [link para dowload](https://courses.missouristate.edu/KenVollmar/mars/download.htm)
+- [Configurar Ambiente](#configuracao)
 
 - Com o simulador aberto:
     - abrir arquivo desse repositorio 
@@ -32,7 +29,21 @@ que foram desenvolvidos no [Simulador MARS](http://courses.missouristate.edu/ken
 
 [Voltar ao Topo da Pagina](#topo)
 
+
+
 <a id="calculadora"></a>
 # Calculadora em Ponto Flutuante
+
+[Voltar ao Topo da Pagina](#topo)
+
+
+
+<a id="configuracao"></a>
+## Configurar Ambiente
+
+- É necessário ter Java instalado para rodar o Simulador MARS 
+    - Você pode baixar, se não tiver, o Java no [link](https://www.java.com/pt-BR/download/manual.jsp)
+
+- Baixar Simulador MARS: [link para dowload](https://courses.missouristate.edu/KenVollmar/mars/download.htm)
 
 [Voltar ao Topo da Pagina](#topo)
